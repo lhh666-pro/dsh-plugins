@@ -2,4 +2,4 @@
 # Host half = lib/index.js (delete route), client half = ./client (Settings section).
 - insert:
     - id: session-archive
-      name: 'dsh-session-archive'
+      name: '@local/dsh-session-archive'
